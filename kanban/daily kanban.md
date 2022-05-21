@@ -6,12 +6,12 @@ kanban-plugin: basic
 
 ## To Do
 
-- [ ] Pay tithing @[[2022-05-21]] #church #spiritual #todo <br><br>[due::2022-05-21]
 - [ ] Activate HSA card #logistics<br>[due::2022-05-22]
 
 
 ## In Progress
 
+- [ ] Pay tithing @[[2022-05-21]] #church #spiritual #todo <br><br>[due::2022-05-21]
 
 
 ## Done
