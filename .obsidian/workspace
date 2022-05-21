@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "0a1f50102c09873d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e4e231a6329a4f4",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "kanban/daily kanban.md"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2bbe5af14c1807d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e77869b6df7f72f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69a2369f6df04971",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f867fed0b86ca0ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "98af7d3f5cbe6abc",
+    "type": "split",
+    "children": [
+      {
+        "id": "31c84ebb78f30de9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acf8dafcfc4b49ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "kanban/daily kanban.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2a85d080d580f8e7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9bd839abd1f8c074",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "01a0c4098ce544ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "17a9714c87f22d27",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6134516c3c5c57e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "1e4e231a6329a4f4",
+  "lastOpenFiles": [
+    "kanban/daily kanban.md",
+    "daily notes/2022-05-21.md",
+    "daily notes/2022-05-22.md",
+    "daily notes/2022-05-20.md",
+    "templates/daily.md",
+    "theology/gods.md",
+    "theology/angel of the LORD.md",
+    "Untitled.md",
+    "Day Planners/Day Planner-20220521.md",
+    "theology/names.md"
+  ]
+}
