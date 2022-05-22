@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "1e4e231a6329a4f4",
+        "id": "f8ffa4f7a9c12668",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "kanban/daily kanban.md"
+            "file": "daily notes/2022-05-22.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -51,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "98af7d3f5cbe6abc",
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kanban/daily kanban.md",
+                "file": "daily notes/2022-05-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,12 +132,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1e4e231a6329a4f4",
+  "active": "f8ffa4f7a9c12668",
   "lastOpenFiles": [
-    "kanban/daily kanban.md",
-    "daily notes/2022-05-21.md",
     "daily notes/2022-05-22.md",
+    "kanban/daily kanban.md",
     "daily notes/2022-05-20.md",
+    "daily notes/2022-05-21.md",
     "templates/daily.md",
     "theology/gods.md",
     "theology/angel of the LORD.md",
