@@ -7,11 +7,11 @@ kanban-plugin: basic
 ## To Do
 
 - [ ] Activate HSA card #logistics #todo <br>[due::2022-05-22]
-- [ ] Scripture Study #todo #spiritual <br><br>- [ ] Judges 16<br><br>[due::2022-05-22]
 
 
 ## In Progress
 
+- [ ] Scripture Study #todo #spiritual <br><br>- [ ] Judges 17<br>- [ ] Judges 18<br><br>[due::2022-05-22]
 
 
 ## Done
@@ -19,7 +19,7 @@ kanban-plugin: basic
 **Complete**
 - [x] Reply to Briand <br>[due::2022-05-21]
 - [x] Pay tithing @[[2022-05-21]] #church #spiritual #todo <br><br>[due::2022-05-21]
-- [x] Scripture Study #spiritual #todo <br><br>- [x] Judges 13 <br>- [x] Judges 14 <br>- [x] Judges 15<br><br>[due::2022-05-21]
+- [x] Scripture Study #spiritual #todo <br><br>- [x] Judges 13 <br>- [x] Judges 14 <br>- [x] Judges 15<br>- [x] Judges 16<br><br>[due::2022-05-21]
 
 
 ## Archive
