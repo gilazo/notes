@@ -11,6 +11,7 @@ kanban-plugin: basic
 
 ## In Progress
 
+- [ ] Reply to Briand <br>[due::2022-05-21]
 
 
 ## Done
