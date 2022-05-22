@@ -7,11 +7,11 @@ kanban-plugin: basic
 ## To Do
 
 - [ ] Activate HSA card #logistics #todo <br>[due::2022-05-22]
-- [ ] Make 7empest Available to David
 
 
 ## In Progress
 
+- [ ] Make 7empest Available to David #todo #love #service<br><br>[due::2022-05-22]
 
 
 ## Done
