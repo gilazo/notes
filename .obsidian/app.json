@@ -2,5 +2,6 @@
   "legacyEditor": false,
   "livePreview": true,
   "showLineNumber": true,
-  "communityThemeSortOrder": "download"
+  "communityThemeSortOrder": "download",
+  "alwaysUpdateLinks": true
 }
