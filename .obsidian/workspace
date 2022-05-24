@@ -126,12 +126,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "d881f78040945a62",
   "lastOpenFiles": [
     "kanban/daily kanban.md",
+    "daily notes/2022-05-24.md",
     "daily notes/2022-05-22.md",
     "theology/angel of YHWH (the LORD).md",
     "theology/salvation/salvation.md",
@@ -139,7 +139,6 @@
     "theology/salvation/salvation through obedience to Christ.md",
     "theology/names.md",
     "daily notes/2022-05-21.md",
-    "Scripture Study.md",
-    "daily notes/2022-05-20.md"
+    "Scripture Study.md"
   ]
 }

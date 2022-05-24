@@ -7,10 +7,12 @@ kanban-plugin: basic
 ## To Do
 
 - [ ] Activate HSA card #logistics #todo <br>[due::2022-05-22]
+- [ ] Jeremy to sign his temple recommend #todo #church <br><br>[due::2022-05-24]
 
 
 ## In Progress
 
+- [ ] Scripture Study #tofo #spiritual <br><br>[due::2022-05-24]
 
 
 ## Done
