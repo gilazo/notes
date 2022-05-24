@@ -7,11 +7,9 @@
         "id": "d881f78040945a62",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "daily notes/2022-05-22.md",
-            "mode": "source",
-            "source": false
+            "file": "kanban/daily kanban.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily notes/2022-05-22.md",
+                "file": "kanban/daily kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,8 +131,8 @@
   },
   "active": "d881f78040945a62",
   "lastOpenFiles": [
-    "daily notes/2022-05-22.md",
     "kanban/daily kanban.md",
+    "daily notes/2022-05-22.md",
     "theology/angel of YHWH (the LORD).md",
     "theology/salvation/salvation.md",
     "theology/salvation/salvation through grace.md",

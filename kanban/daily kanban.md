@@ -11,12 +11,12 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] Make 7empest Available to David #todo #love #service<br><br>[due::2022-05-22]
 
 
 ## Done
 
 **Complete**
+- [x] Make 7empest Available to David #todo #love #service<br><br>[due::2022-05-22]
 - [x] Scripture Study #todo #spiritual <br><br>- [x] Judges 17<br>- [x] Judges 18<br><br>[due::2022-05-22]
 - [x] Reply to Briand <br>[due::2022-05-21]
 - [x] Pay tithing @[[2022-05-21]] #church #spiritual #todo <br><br>[due::2022-05-21]
