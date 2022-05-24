@@ -12,7 +12,7 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] Scripture Study #tofo #spiritual <br><br>[due::2022-05-24]
+- [ ] Scripture Study #tofo #spiritual <br><br>- [x] Judges 19<br>- [x] Judges 20<br>- [ ] Judges 21<br><br>[due::2022-05-24]
 
 
 ## Done
