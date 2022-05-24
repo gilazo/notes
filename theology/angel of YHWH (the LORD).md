@@ -26,4 +26,5 @@ It's also intriguing what Manoah says to his wife:
 Manoah doesn't identify the divine being as `the angel of the LORD` but as `God` himself.
 
 ## scripture references
+- Genesis 16:7-100
 - Judges 13
