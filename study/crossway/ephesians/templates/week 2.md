@@ -1,0 +1,3 @@
+# WEEK 2: BELIEVERS' SPIRITUAL BLESSINGS
+
+## The Place of the Passage
