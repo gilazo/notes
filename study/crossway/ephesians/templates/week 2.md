@@ -29,6 +29,11 @@ Pauls calls this church "faithful in Christ Jesus" and communicates grace and pe
 
 > [!NOTE]
 
+Paul includes [[#^4a28c2|"redemption"]] and "forgiveness of our trespasses" among the blessings lavished upon believers by grace. What does this working of grace indicate about the Ephesians' previous and current condition?
+
+> [!NOTE]
+
+
 
 ## Definitions
 **Grace** - Unmerited favor, especially the free gift of salvation that God gives to believers through faith in Jesus Christ. ^174c20
@@ -36,3 +41,5 @@ Pauls calls this church "faithful in Christ Jesus" and communicates grace and pe
 **Apostle** - Means "one who is sent" and refers to  one who is an official representative of another. In the NT, refers specifically to those whom Jesus chose to represent. ^aa49cf
 
 **Predestination** - God's sovereign choice of people for redemption and eternal life. Also referred to as "election." ^063fa7
+
+**Redemption** - In the context of the Bible, the act of buying back someone who had become ensalved or something taht had been lost to someone else. Through his death and resurrection, Jesus purchased redemption for all believers `(Col. 1:13-14)` ^4a28c2
