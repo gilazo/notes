@@ -55,7 +55,7 @@ The work of Christ in redemption, which began in eternity past, includes the sea
 **ATONEMENT.** Although mentioned directly only once in 1:3-14, the death of Christ is the the centerpiece of spiritual blessing. As the Levitical code states, "It is the blood that makes atonement by the life" `(Lev. 17:11;see Heb. 9:22)`. Christ's life-giving act provided the blood sacrifice that atones for the sins of believers. The cross of Christ is central to all the spiritual blessings we read about in Ephesians.
 
 ## Whole-Bible Connections
-
+**GOD'S DECREE.** Terms in Ephesians 1:1-14 such as "will", "purpose", "plan", and "counsel" reveal that God has a decree from eternity that cannot be altered or 
 
 ## Definitions
 **Grace** - Unmerited favor, especially the free gift of salvation that God gives to believers through faith in Jesus Christ. ^174c20
