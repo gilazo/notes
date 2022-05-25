@@ -62,6 +62,29 @@ The work of Christ in redemption, which began in eternity past, includes the sea
 ## Theological Soundings
 **ELECTION.** Just as the Lord lovingly chose Israel from among the nations as his own people `(Deut. 7:7-8; 10:15; Hos. 11:1; Mal. 1:2)`, so in mercy the Lord lovingly has chosen those he will save from all the people of the earth `(Rom. 9:11-13; Eph. 1:4-5)`. This choice is part of his eternal decree, occurring before the creation of the world or any of its inhabitants `(Eph. 1:5; 2:10)`. The choice is *in Christ*, not man; therefore, it does not rest on any foreseen decision of any human person `(2:9)`. Gloriously, in his act of election, God chooses to save people who deserve his greatest wrath and who would otherwise never choose to come to him. Election is the only way anyone receives salvation in Christ. Those who are chosen will experience God's eternal mercy `(Rom. 8:29-30)`.
 
+**GUARANTOR.** When the Lord wished to assure Abraham that he would receive the promised inheritance, the Lord himself sealed the covenant, making the promises depend on this character alone `(Gen. 15:7-21)`. Similarly, in order to guarantee the work of salvation from beginning to end, the Lord gives the Spirit of God as the guarantor (or down payment) of our inheritance. The presence of the indwelling Spirit in believers secures salvation fro the elect forever. It guarantees that those predestined to be holy and blameless will not lose the gift of Christ but will acquire its full possession.
+
+## Personal Implications
+**Take time to reflect on the implications of Ephesians 1:1-14 for your own life today. Ponder what the Lord is doing in you to bring glory to himself. Make notes below on the personal implications for your walk with the Lord of the (1) *Gospel Glimpses,* (2) *Whole-Bible Connections,* (3) *Theological Soundings,* and (4) this passage as a whole.**
+
+1. **Gospel Glimpses**
+
+> [!NOTE]
+
+2. **Whole-Bible Connections**
+
+> [!NOTE]
+
+3. **Theological Soundings**
+
+> [!NOTE]
+
+4. **Ephesians 1:1-14**
+
+> [!NOTE]
+
+## As You Finish This Unit . . .
+**Take a moment now to ask for the Lord's blessing and help as you continue in this study of Ephesians. And take a moment also to look back through this unit of study, to reflect on some key things that the Lord may be teaching you-and perhaps to highlight and underline these things to review again in the future.**
 
 ## Definitions
 **Grace** - Unmerited favor, especially the free gift of salvation that God gives to believers through faith in Jesus Christ. ^174c20
