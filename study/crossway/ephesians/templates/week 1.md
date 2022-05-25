@@ -38,7 +38,18 @@ Paul wrote Ephesians during his first imprisonment `(3:1;4:1;6:20)`. He is there
 ## As You Get Started
 Read the book of Ephesians as if it were a letter from the apostle Paul written to your own church. What stands out as unique or significant as you read? Write down your initial thoughts.
 
+> [!NOTE]
 
+Two prayers and one request for prayer in Ephesians each revolves around revelation and mystery `(1:15-22;3:14-21;6:18-20)`. What might this tell you about Paul's hope for believers who read Ephesians?
+
+> [!NOTE]
+
+In reading Ephesians, what words and ideas are repeated? How might you group some of these words and ideas together under larger headings that point to Paul's main idea in Ephesians?
+
+> [!NOTE]
+
+## As You Finish This Unit . . . 
+Using the prayers of `Ephesians 1:17-23`, take a few minutes to ask the Lord to reveal to you and your church more and more of his will for his glory as you begin this study of Ephesians.
 
 ## Definitions
 **Demon** - An evil spirit that can inhabit a human being and influence him or her to carry out its will. Demons are fallen angels, created by God and always limited by him. Jesus and his followers cast out many demons, demonstrating Jesus' superiority over them. All demons will one day be destroyed along with Satan `(Matt. 25:41; Rev. 20:10)`. ^02b2c8
