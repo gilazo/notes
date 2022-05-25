@@ -25,8 +25,14 @@ Pauls calls this church "faithful in Christ Jesus" and communicates grace and pe
 
 2. **Reverlation of Spiritual Blessings in Christ from the Father (1:3-10)**
 
-"Blessed be" denotes that Paul is offering praise to God 
+"Blessed be" denotes that Paul is offering praise to God for the spiritual blessings listed in the verses follow. The blessings are anchored "in Christ"- in his person and work in salvation-and "in the heavenly places." List the spiritual blessings "in" and "through" Christ mentioned in 1:4-6. What defining boundaries do "in Christ" and "in the heavenly places" place on "chosen in him", [[#^063fa7|"predestined"]], and "adopted"?
+
+> [!NOTE]
+
+
 ## Definitions
 **Grace** - Unmerited favor, especially the free gift of salvation that God gives to believers through faith in Jesus Christ. ^174c20
 
 **Apostle** - Means "one who is sent" and refers to  one who is an official representative of another. In the NT, refers specifically to those whom Jesus chose to represent. ^aa49cf
+
+**Predestination** - God's sovereign choice of people for redemption and eternal life. Also referred to as "election." ^063fa7
