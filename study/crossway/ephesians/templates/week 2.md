@@ -33,6 +33,28 @@ Paul includes [[#^4a28c2|"redemption"]] and "forgiveness of our trespasses" amon
 
 > [!NOTE]
 
+Several terms indicate the Lord's intentions for spiritual blessings: "that we should be," "in love" `(1:4)`, "to the praise of his glorious grace" `(1:6)`, and "to unite all things in him" `(1:10)`. These intentions align with God's eternal will (or "purpose" or "plan"; 1:1, 5, 9, 10). How would you summarize the earthly and eternal goals of the works of Christ in the church and for every believer?
+
+> [!NOTE]
+
+3. **Revelation of Spiritual Blessings in Christ through the Spirit (1:11-14)
+
+In 1:11, "in him", "predestined", "purpose", and "will" carry over previously mentioned truths related to the believers' spiritual blessings. According to these truths, how do believers gain an inheritance in Christ? What is the goal of this inheritance, and why might it carry special signifigance for those "who were the first to hope in Christ"?
+
+> [!NOTE]
+
+The work of Christ in redemption, which began in eternity past, includes the sealing of the Holy Spirit. Hearing the truth of the gospel actualizes this sealing `(1:13)`. What role, then, does belief play in the entire tapestry of salvation discussed in 1:3-14? What assurance of salvation does the working of the Spirit provide?
+
+> [!NOTE]
+
+**Read through the following three sections on *Gospel Glimpses, Whole-Bible Connections, and Theological Soundings*. Then take time to consider the *Personal Implications* these sections may have for you.**
+
+## Gospel Glimpses
+**FORGIVENESS.** As sinners we have offended God, broken his laws, disobeyed his commands, and rebelled against his will. This puts enmity between our Maker and us. If this breach is not repaired, the sinner remains in jeopardy of punishment from God. However, in the death and resurrection of Christ, the Lord himself has provided for our forgiveness. `(Matt. 27:28)`. It is an act of his grace toward us `(Eph. 1:78)`.
+
+**ATONEMENT.** Although mentioned directly only once in 1:3-14, the death of Christ is the the centerpiece of spiritual blessing. As the Levitical code states, "It is the blood that makes atonement by the life" `(Lev. 17:11;see Heb. 9:22)`. Christ's life-giving act provided the blood sacrifice that atones for the sins of believers. The cross of Christ is central to all the spiritual blessings we read about in Ephesians.
+
+## Whole-Bible Connections
 
 
 ## Definitions
