@@ -8,16 +8,17 @@ kanban-plugin: basic
 
 - [ ] Activate HSA card #logistics #todo <br>[due::2022-05-22]
 - [ ] Call back Banner Physical Therapy #todo <br>[due::2022-05-25]
+- [ ] Get Chairs for Motocross #todo <br><br>[due::2022-05-27]
 
 
 ## In Progress
 
-- [ ] Scripture Study #spiritual #todo <br><br>[due::2022-05-25]
 
 
 ## Done
 
 **Complete**
+- [x] Scripture Study #spiritual #todo <br><br>[due::2022-05-25]
 - [x] Jeremy to sign his temple recommend #todo #church <br><br>[due::2022-05-24]
 - [x] Scripture Study #tofo #spiritual <br><br>- [x] Judges 19<br>- [x] Judges 20<br>- [x] Judges 21<br><br>[due::2022-05-24]
 - [x] Make 7empest Available to David #todo #love #service<br><br>[due::2022-05-22]
