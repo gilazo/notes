@@ -7,12 +7,12 @@ kanban-plugin: basic
 ## To Do
 
 - [ ] Activate HSA card #logistics #todo <br>[due::2022-05-22]
-- [ ] Call back Banner Physical Therapy #todo <br>[due::2022-05-25]
 - [ ] Get Chairs for Motocross #todo <br><br>[due::2022-05-27]
 
 
 ## In Progress
 
+- [ ] Call back Banner Physical Therapy #todo <br>[due::2022-05-25]
 
 
 ## Done
