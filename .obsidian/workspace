@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "795f84643653f459",
+        "id": "4128c84b230943f2",
         "type": "leaf",
         "state": {
           "type": "kanban",
@@ -129,7 +129,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "795f84643653f459",
+  "active": "4128c84b230943f2",
   "lastOpenFiles": [
     "carvana/kanban/daily kanban.md",
     "kanban/daily kanban.md",
@@ -139,7 +139,6 @@
     "week.md",
     "daily notes/2022-05-25.md",
     "daily notes/2022-05-21.md",
-    "daily notes/2022-05-22.md",
-    "daily notes/2022-05-24.md"
+    "daily notes/2022-05-22.md"
   ]
 }
