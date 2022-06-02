@@ -4,7 +4,7 @@
 
 ## daily tasks
 > [!TODO]
-> These dailys tasks are tracked in the [[daily kanban]]
+> These dailys tasks are tracked in the [[kanban/daily kanban]]
 
 ```dataviewjs
 const offset = '<% tp.date.now() %>';

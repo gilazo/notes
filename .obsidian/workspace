@@ -9,7 +9,7 @@
         "state": {
           "type": "kanban",
           "state": {
-            "file": "kanban/daily kanban.md"
+            "file": "carvana/kanban/daily kanban.md"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kanban/daily kanban.md",
+                "file": "carvana/kanban/daily kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +131,7 @@
   },
   "active": "795f84643653f459",
   "lastOpenFiles": [
+    "carvana/kanban/daily kanban.md",
     "kanban/daily kanban.md",
     "study/crossway/ephesians/templates/week 2.md",
     "study/crossway/ephesians/templates/week 1.md",
@@ -139,7 +140,6 @@
     "daily notes/2022-05-25.md",
     "daily notes/2022-05-21.md",
     "daily notes/2022-05-22.md",
-    "daily notes/2022-05-24.md",
-    "theology/angel of YHWH (the LORD).md"
+    "daily notes/2022-05-24.md"
   ]
 }
