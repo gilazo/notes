@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## to do
 
+- [ ] Get Ally Data for Missing Contracts #outofsprint #runthebusiness
 
 
 ## in progress
