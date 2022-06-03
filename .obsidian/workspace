@@ -9,7 +9,7 @@
         "state": {
           "type": "kanban",
           "state": {
-            "file": "carvana/kanban/daily kanban.md"
+            "file": "carvana/kanban/daily work kanban.md"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "carvana/kanban/daily kanban.md",
+                "file": "carvana/kanban/daily work kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
   },
   "active": "4128c84b230943f2",
   "lastOpenFiles": [
-    "carvana/kanban/daily kanban.md",
+    "carvana/kanban/daily work kanban.md",
     "kanban/daily kanban.md",
     "study/crossway/ephesians/templates/week 2.md",
     "study/crossway/ephesians/templates/week 1.md",
