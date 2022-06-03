@@ -7,11 +7,9 @@
         "id": "795f84643653f459",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "theology/prophets.md",
-            "mode": "source",
-            "source": false
+            "file": "kanban/daily kanban.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theology/prophets.md",
+                "file": "kanban/daily kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +131,15 @@
   },
   "active": "795f84643653f459",
   "lastOpenFiles": [
+    "kanban/daily kanban.md",
+    "daily notes/2022-05-21.md",
     "theology/prophets.md",
+    "conflict-files-obsidian-git.md",
     "theology/angel of YHWH (the LORD).md",
     "theology/gods.md",
     "theology/salvation/salvation through obedience to Christ.md",
     "theology/salvation/salvation through grace.md",
     "theology/salvation/salvation.md",
-    "kanban/daily kanban.md",
-    "study/crossway/ephesians/templates/week 2.md",
-    "study/crossway/ephesians/templates/week 1.md",
-    "[[week.md"
+    "study/crossway/ephesians/templates/week 2.md"
   ]
 }
