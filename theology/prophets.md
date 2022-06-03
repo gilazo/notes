@@ -4,5 +4,7 @@
 
 
 >[!QUOTE]
->
+> "(Formerly in Israel, anyone who went to inquire of God would say, 'Come, let us go to the seer,' for the one who is now called a prophet was formerly called a seer.)"
+> (NRSVue, 1 Samuel 9:9)
+
 Anciently in Israel, a `Prophet` was called a `Seer`. See 1 Samuel 9:9
