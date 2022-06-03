@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "theology/gods.md",
+            "file": "theology/prophets.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theology/gods.md",
+                "file": "theology/prophets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "795f84643653f459",
   "lastOpenFiles": [
+    "theology/prophets.md",
+    "theology/salvation/salvation through obedience to Christ.md",
+    "theology/salvation/salvation through grace.md",
+    "theology/salvation/salvation.md",
     "theology/gods.md",
     "kanban/daily kanban.md",
     "study/crossway/ephesians/templates/week 2.md",
     "study/crossway/ephesians/templates/week 1.md",
     "[[week.md",
-    "week.md",
-    "daily notes/2022-05-25.md",
-    "daily notes/2022-05-21.md",
-    "daily notes/2022-05-22.md",
-    "daily notes/2022-05-24.md"
+    "week.md"
   ]
 }
