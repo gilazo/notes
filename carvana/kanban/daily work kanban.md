@@ -8,6 +8,7 @@ kanban-plugin: basic
 
 - [ ] Get Ally Data for Missing Contracts #outofsprint #runthebusiness
 - [ ] Create Feature Flag Service #outofsprint #scrappy #code <br><br>- [ ] Open DevOps ticket to create service<br>- [ ] Scaffold new service<br>- [ ] Add Pychy<br>- [ ] Add Controllers<br>- [ ] Test<br>- [ ] Release
+- [ ] Create Lucid Chart for CustomerProduct Pricing Changes #design #outofsprint @[[2022-06-03]]
 
 
 ## in progress
