@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "795f84643653f459",
+        "id": "4128c84b230943f2",
         "type": "leaf",
         "state": {
           "type": "diff-view",
           "state": {
-            "file": ".obsidian/workspace",
-            "staged": false
+            "file": "carvana/kanban/daily work kanban.md"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kanban/daily kanban.md",
+                "file": "carvana/kanban/daily work kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,8 +128,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "795f84643653f459",
+  "active": "4128c84b230943f2",
   "lastOpenFiles": [
+    "carvana/kanban/daily work kanban.md",
     "kanban/daily kanban.md",
     "daily notes/2022-05-21.md",
     "theology/prophets.md",
