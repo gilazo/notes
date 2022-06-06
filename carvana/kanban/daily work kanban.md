@@ -8,19 +8,20 @@ kanban-plugin: basic
 
 - [ ] Get Ally Data for Missing Contracts #outofsprint #runthebusiness
 - [ ] Create Feature Flag Service #outofsprint #scrappy #code <br><br>- [ ] Open DevOps ticket to create service<br>- [ ] Scaffold new service<br>- [ ] Add Pychy<br>- [ ] Add Controllers<br>- [ ] Test<br>- [ ] Release
-- [ ] Create Lucid Chart for CustomerProduct Pricing Changes #design #outofsprint @[[2022-06-03]]
 
 
 ## in progress
 
-- [ ] Finish Rex's Review #team @[[2022-06-06]]
-- [ ] Robert Sanchez #support @[[2022-06-03]]<br><br>https://carvana.slack.com/archives/CN176P0V7/p1654278118586469
 - [ ] Create Pricing Experiment #outofsprint #scrappy #code <br><br>- [ ] Create Feature Flag Service<br>- [ ] Updated Folder Structure<br>- [ ] Update CI/CD Pipelines<br>- [ ] Support Pychy<br>- [ ] Support MS FeatureManagement<br>- [ ] Add Gateways lib<br>- [ ] Add CarvanaCare Gateway<br>- [ ] Add VehicleDetails Gateway<br>- [ ] Add CarvanaCare Mapping<br>- [ ] Add Experiment<br>- [ ] Update PP Services to call PurchaseAncillary<br>- [ ] Update Ancillary to call PurchaseAncillary<br>- [ ] Remove PP experiment from Ancillary<br>- [ ] Cross fingers
 
 
 ## done
 
 **Complete**
+- [x] Finish Kevin's Review #team @[[2022-06-06]]
+- [x] Create Lucid Chart for CustomerProduct Pricing Changes #design #outofsprint @[[2022-06-03]]
+- [x] Robert Sanchez #support @[[2022-06-03]]<br><br>https://carvana.slack.com/archives/CN176P0V7/p1654278118586469
+- [x] Finish Rex's Review #team @[[2022-06-06]]
 - [x] PR - Rex #team #pr @[[2022-06-03]]<br><br>https://carvanadev.visualstudio.com/Carvana.Transaction/_git/Carvana.AncillaryProducts/pullrequest/180254
 
 
