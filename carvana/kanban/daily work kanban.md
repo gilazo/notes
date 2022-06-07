@@ -12,6 +12,7 @@ kanban-plugin: basic
 
 ## in progress
 
+- [ ] Batch Reprice Products #code #runthebusiness @[[2022-06-07]]
 - [ ] Create Pricing Experiment #outofsprint #scrappy #code <br><br>- [ ] Create Feature Flag Service<br>- [ ] Updated Folder Structure<br>- [ ] Update CI/CD Pipelines<br>- [ ] Support Pychy<br>- [ ] Support MS FeatureManagement<br>- [ ] Add Gateways lib<br>- [ ] Add CarvanaCare Gateway<br>- [ ] Add VehicleDetails Gateway<br>- [ ] Add CarvanaCare Mapping<br>- [ ] Add Experiment<br>- [ ] Update PP Services to call PurchaseAncillary<br>- [ ] Update Ancillary to call PurchaseAncillary<br>- [ ] Remove PP experiment from Ancillary<br>- [ ] Cross fingers
 
 
