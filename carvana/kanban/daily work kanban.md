@@ -12,13 +12,13 @@ kanban-plugin: basic
 
 ## in progress
 
-- [ ] Batch Reprice Products #code #runthebusiness @[[2022-06-07]]
 - [ ] Create Pricing Experiment #outofsprint #scrappy #code <br><br>- [ ] Create Feature Flag Service<br>- [ ] Updated Folder Structure<br>- [ ] Update CI/CD Pipelines<br>- [ ] Support Pychy<br>- [ ] Support MS FeatureManagement<br>- [ ] Add Gateways lib<br>- [ ] Add CarvanaCare Gateway<br>- [ ] Add VehicleDetails Gateway<br>- [ ] Add CarvanaCare Mapping<br>- [ ] Add Experiment<br>- [ ] Update PP Services to call PurchaseAncillary<br>- [ ] Update Ancillary to call PurchaseAncillary<br>- [ ] Remove PP experiment from Ancillary<br>- [ ] Cross fingers
 
 
 ## done
 
 **Complete**
+- [x] Batch Reprice Products #code #runthebusiness @[[2022-06-07]]
 - [x] Finish Kevin's Review #team @[[2022-06-06]]
 - [x] Create Lucid Chart for CustomerProduct Pricing Changes #design #outofsprint @[[2022-06-03]]
 - [x] Robert Sanchez #support @[[2022-06-03]]<br><br>https://carvana.slack.com/archives/CN176P0V7/p1654278118586469
