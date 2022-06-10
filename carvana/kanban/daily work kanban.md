@@ -8,6 +8,7 @@ kanban-plugin: basic
 
 - [ ] Get Ally Data for Missing Contracts #outofsprint #runthebusiness
 - [ ] Create Feature Flag Service #outofsprint #scrappy #code <br><br>- [ ] Open DevOps ticket to create service<br>- [ ] Scaffold new service<br>- [ ] Add Pychy<br>- [ ] Add Controllers<br>- [ ] Test<br>- [ ] Release
+- [ ] Notify Ally of Cancellation problem. #support @[[2022-06-10]]<br><br>https://carvana.slack.com/archives/CN176P0V7/p1654872621463419
 
 
 ## in progress
