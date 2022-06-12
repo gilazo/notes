@@ -7,9 +7,11 @@
         "id": "4128c84b230943f2",
         "type": "leaf",
         "state": {
-          "type": "diff-view",
+          "type": "markdown",
           "state": {
-            "file": "carvana/kanban/daily work kanban.md"
+            "file": "DnD/Exandria/Untitled.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DnD/Exandria/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,8 +123,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,6 +131,7 @@
   },
   "active": "4128c84b230943f2",
   "lastOpenFiles": [
+    "DnD/Exandria/Untitled.md",
     "carvana/kanban/daily work kanban.md",
     "kanban/daily kanban.md",
     "daily notes/2022-05-21.md",
@@ -137,8 +140,6 @@
     "theology/angel of YHWH (the LORD).md",
     "theology/gods.md",
     "theology/salvation/salvation through obedience to Christ.md",
-    "theology/salvation/salvation through grace.md",
-    "theology/salvation/salvation.md",
-    "study/crossway/ephesians/templates/week 2.md"
+    "theology/salvation/salvation through grace.md"
   ]
 }
