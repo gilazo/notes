@@ -8,11 +8,11 @@ kanban-plugin: basic
 
 - [ ] Get Ally Data for Missing Contracts #outofsprint #runthebusiness
 - [ ] Create Feature Flag Service #outofsprint #scrappy #code <br><br>- [ ] Open DevOps ticket to create service<br>- [ ] Scaffold new service<br>- [ ] Add Pychy<br>- [ ] Add Controllers<br>- [ ] Test<br>- [ ] Release
-- [ ] Notify Ally of Cancellation problem. #support @[[2022-06-10]]<br><br>https://carvana.slack.com/archives/CN176P0V7/p1654872621463419
 
 
 ## in progress
 
+- [ ] Notify Ally of Cancellation problem. #support @[[2022-06-10]]<br><br>https://carvana.slack.com/archives/CN176P0V7/p1654872621463419
 - [ ] Create Pricing Experiment #outofsprint #scrappy #code <br><br>- [ ] Create Feature Flag Service<br>- [ ] Updated Folder Structure<br>- [ ] Update CI/CD Pipelines<br>- [ ] Support Pychy<br>- [ ] Support MS FeatureManagement<br>- [ ] Add Gateways lib<br>- [ ] Add CarvanaCare Gateway<br>- [ ] Add VehicleDetails Gateway<br>- [ ] Add CarvanaCare Mapping<br>- [ ] Add Experiment<br>- [ ] Update PP Services to call PurchaseAncillary<br>- [ ] Update Ancillary to call PurchaseAncillary<br>- [ ] Remove PP experiment from Ancillary<br>- [ ] Cross fingers
 
 
