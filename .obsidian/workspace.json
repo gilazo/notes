@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "0a1f50102c09873d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef8ce304de4d1eda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4128c84b230943f2",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "carvana/kanban/daily work kanban.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2bbe5af14c1807d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e77869b6df7f72f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69a2369f6df04971",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f867fed0b86ca0ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ff605d0b485b762b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "98af7d3f5cbe6abc",
+    "type": "split",
+    "children": [
+      {
+        "id": "31c84ebb78f30de9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acf8dafcfc4b49ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "carvana/kanban/daily work kanban.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2a85d080d580f8e7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "01a0c4098ce544ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "17a9714c87f22d27",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "141eeb4adc98391f",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "periodic-notes:Open today": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "69a2369f6df04971",
+  "lastOpenFiles": [
+    "carvana/kanban/daily work kanban.md",
+    "DnD/Exandria/Untitled.md",
+    "kanban/daily kanban.md",
+    "daily notes/2022-05-21.md",
+    "theology/prophets.md",
+    "conflict-files-obsidian-git.md",
+    "theology/angel of YHWH (the LORD).md",
+    "theology/gods.md",
+    "theology/salvation/salvation through obedience to Christ.md",
+    "theology/salvation/salvation through grace.md"
+  ]
+}
