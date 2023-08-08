@@ -7,9 +7,10 @@
 > These dailys tasks are tracked in the [[kanban/daily kanban]]
 
 ```dataviewjs
-const offset = '2023-08-08';
-dv.taskList(dv.page("kanban/daily kanban").file.tasks.where(t => dv.equal(t.due, dv.date(dv.current().file.name))))
+const offset = '<% tp.date.now() %>';
+dv.taskList(dv.page("carvana/kanban/daily work kanban").file.tasks.where(t => dv.equal(t.due, dv.date(dv.current().file.name))))
 ```
+
 
 ## daily log
 > [!SUMMARY]

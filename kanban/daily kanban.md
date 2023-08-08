@@ -6,8 +6,6 @@ kanban-plugin: basic
 
 ## To Do
 
-- [ ] Activate HSA card #logistics #todo <br>[due::2022-05-22]
-- [ ] Get Chairs for Motocross #todo <br><br>[due::2022-05-27]
 
 
 ## In Progress
@@ -17,6 +15,8 @@ kanban-plugin: basic
 ## Done
 
 **Complete**
+- [x] Get Chairs for Motocross #todo <br><br>[due::2022-05-27]
+- [x] Activate HSA card #logistics #todo <br>[due::2022-05-22]
 - [x] Call back Banner Physical Therapy #todo <br>[due::2022-05-25]
 - [x] Scripture Study #spiritual #todo <br><br>[due::2022-05-25]
 - [x] Jeremy to sign his temple recommend #todo #church <br><br>[due::2022-05-24]
