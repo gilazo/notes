@@ -8,6 +8,8 @@ kanban-plugin: basic
 
 - [ ] Release mobile proxy to prod #outofsprint <br><br>[due::2023-08-08]<br>(@2023-08-08 3:30)
 - [ ] Rollout APIK Phantom for critical services #outofsprint <br><br>[due::2023-08-08]<br>(@2023-08-08)
+- [ ] Schedule a walk through with Iams on Performance ideas
+- [ ] Let Iams know if EV/Hybrid becomes endangered by contracts not going out by Monday
 
 
 ## in progress
