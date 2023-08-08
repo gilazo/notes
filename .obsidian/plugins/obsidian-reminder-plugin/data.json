@@ -1,0 +1,36 @@
+{
+  "scanned": true,
+  "reminders": {
+    "carvana/kanban/daily work kanban.md": [
+      {
+        "title": "Release mobile proxy to prod #outofsprint <br><br>[due::2023-08-08]<br>",
+        "time": "2023-08-09",
+        "rowNumber": 8
+      },
+      {
+        "title": "Rollout APIK Phantom for critical services #outofsprint <br><br>[due::2023-08-08]<br>",
+        "time": "2023-08-09",
+        "rowNumber": 9
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "09:00",
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": false,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": false,
+    "useCustomEmojiForTasksPlugin": false,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}

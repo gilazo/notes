@@ -6,20 +6,20 @@ kanban-plugin: basic
 
 ## to do
 
-- [ ] Release mobile proxy to prod #outofsprint <br><br>[due::2023-08-08]<br>(@2023-08-08 3:30)
-- [ ] Rollout APIK Phantom for critical services #outofsprint <br><br>[due::2023-08-08]<br>(@2023-08-08)
-- [ ] Schedule a walk through with Iams on Performance ideas
+- [ ] Release mobile proxy to prod #outofsprint <br><br>[due::2023-08-08]<br>(@2023-08-09)
+- [ ] Rollout APIK Phantom for critical services #outofsprint <br><br>[due::2023-08-08]<br>(@2023-08-09)
 - [ ] Let Iams know if EV/Hybrid becomes endangered by contracts not going out by Monday
 
 
 ## in progress
 
-- [ ] Create Splunk query for failed contract injections #outofsprint <br><br>[due::2023-08-08]<br>(@2023-08-08 11:30)
 
 
 ## done
 
 **Complete**
+- [x] Schedule a walk through with Iams on Performance ideas <br><br>[due::2023-08-08]
+- [x] Create Splunk query for failed contract injections #outofsprint <br><br>[due::2023-08-08]<br>(@2023-08-08 11:30)
 
 
 ***
