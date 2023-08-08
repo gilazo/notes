@@ -6,14 +6,11 @@ kanban-plugin: basic
 
 ## to do
 
-- [ ] Create Feature Flag Service #outofsprint #scrappy #code <br><br>- [ ] Open DevOps ticket to create service<br>- [ ] Scaffold new service<br>- [ ] Add Pychy<br>- [ ] Add Controllers<br>- [ ] Test<br>- [ ] Release
-- [ ] CCSub Events Ended 3/8 #runthebusiness @[[2022-06-13]]<br><br>https://carvana.slack.com/archives/D01GRSSFP9R/p1655147078846889
 
 
 ## in progress
 
-- [ ] Get Ally Data for Missing Contracts #outofsprint #runthebusiness
-- [ ] Create Pricing Experiment #outofsprint #scrappy #code <br><br>- [ ] Create Feature Flag Service<br>- [ ] Updated Folder Structure<br>- [ ] Update CI/CD Pipelines<br>- [ ] Support Pychy<br>- [ ] Support MS FeatureManagement<br>- [ ] Add Gateways lib<br>- [ ] Add CarvanaCare Gateway<br>- [ ] Add VehicleDetails Gateway<br>- [ ] Add CarvanaCare Mapping<br>- [ ] Add Experiment<br>- [ ] Update PP Services to call PurchaseAncillary<br>- [ ] Update Ancillary to call PurchaseAncillary<br>- [ ] Remove PP experiment from Ancillary<br>- [ ] Cross fingers
+- [ ] Create Splunk query for failed contract injections #outofsprint <br><br>(@2023-08-08 11:30)
 
 
 ## done

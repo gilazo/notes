@@ -11,9 +11,11 @@
             "id": "4128c84b230943f2",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "carvana/kanban/daily work kanban.md"
+                "file": "daily notes/2022-05-21.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "carvana/kanban/daily work kanban.md",
+                "file": "daily notes/2022-05-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,16 +153,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "69a2369f6df04971",
+  "active": "4128c84b230943f2",
   "lastOpenFiles": [
-    "carvana/kanban/daily work kanban.md",
-    "DnD/Exandria/Untitled.md",
-    "kanban/daily kanban.md",
+    "daily notes/2023-08-08.md",
     "daily notes/2022-05-21.md",
-    "theology/prophets.md",
-    "conflict-files-obsidian-git.md",
-    "theology/angel of YHWH (the LORD).md",
+    "carvana/kanban/daily work kanban.md",
     "theology/gods.md",
+    "DnD/Exandria/Untitled.md",
+    "theology/names.md",
+    "theology/prophets.md",
+    "theology/angel of YHWH (the LORD).md",
+    "templates/daily.md",
+    "study/crossway/ephesians/templates/week 2.md",
+    "study/crossway/ephesians/templates/week 1.md",
+    "kanban/daily kanban.md",
+    "conflict-files-obsidian-git.md",
     "theology/salvation/salvation through obedience to Christ.md",
     "theology/salvation/salvation through grace.md"
   ]
