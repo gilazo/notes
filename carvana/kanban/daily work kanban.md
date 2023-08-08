@@ -10,7 +10,7 @@ kanban-plugin: basic
 
 ## in progress
 
-- [ ] Create Splunk query for failed contract injections #outofsprint <br><br>(@2023-08-08 11:30)
+- [ ] Create Splunk query for failed contract injections #outofsprint <br><br>[due::2023-08-08]<br>(@2023-08-08 11:30)
 
 
 ## done
