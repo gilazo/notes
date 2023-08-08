@@ -7,6 +7,7 @@ kanban-plugin: basic
 ## to do
 
 - [ ] Release mobile proxy to prod #outofsprint <br><br>[due::2023-08-08]<br>(@2023-08-08 3:30)
+- [ ] Rollout APIK Phantom for critical services #outofsprint <br><br>[due::2023-08-08]<br>(@2023-08-08)
 
 
 ## in progress
