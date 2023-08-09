@@ -8,7 +8,6 @@ kanban-plugin: basic
 
 - [ ] Release mobile proxy to prod #outofsprint <br><br>[due::2023-08-09]<br>(@2023-08-09 12:25)
 - [ ] Let Iams know if EV/Hybrid becomes endangered by contracts not going out by Monday<br>#runthebusiness <br><br>[due::2023-08-10]<br>(@2023-08-10)
-- [ ] Look into ProductCategory issue for Iams #runthebusiness <br><br>[due::2023-08-09]<br>(@2023-08-09 12:00)
 - [ ] Support #support <br><br>https://carvana.slack.com/archives/CN176P0V7/p1691597590986339<br><br>[due::2023-08-09]<br>(@2023-08-09 12:00)
 
 
@@ -20,6 +19,7 @@ kanban-plugin: basic
 ## done
 
 **Complete**
+- [x] Look into ProductCategory issue for Iams #runthebusiness <br><br>[due::2023-08-09]<br>(@2023-08-09 12:00)
 - [x] Rollout APIK Phantom for critical services #outofsprint <br><br>[due::2023-08-09]<br>(@2023-08-09)
 - [x] Schedule a walk through with Iams on Performance ideas <br><br>[due::2023-08-08]
 - [x] Create Splunk query for failed contract injections #outofsprint <br><br>[due::2023-08-08]<br>(@2023-08-08 11:30)
