@@ -16,3 +16,6 @@ Mobile/Web client switching:
 		2. Mobile customer starts on web and moves to native and moves back to web.  Same as above except if the customer added drivers or vehicles on native then those additions won't show back up on the v3 snapshot and therefore the quote on web.
 		3. Mobile customer starts on native and stays on native.  Native app makes calls through proxy, and since no v3 quote exists this customer will continue through the v2 flows as is today.
 		4. Mobile customer starts on native and moves to web.  The web app then calls and created a v3 quote for the customer.  The buckets, and then could show prefill or move to the quote screen.  Here the quote will be different.
+				1. Code could be used to fix this.
+						1. Call initialize from mobile proxy
+						2. Call initialize from mobile proxy and force bucket into control
