@@ -19,3 +19,7 @@ Mobile/Web client switching:
 				1. Code could be used to fix this.
 						1. Call initialize from mobile proxy
 						2. Call initialize from mobile proxy and force bucket into control
+
+Other:
+
+1. Sahil found an issue related to RefreshQuote.  Rex to look into updating it to follow the CreateQuote flow.
