@@ -6,7 +6,8 @@
 	4. Overall comment for native is that we should figure out a way to run the DDV experiment without asking that team to do any work, if at all possible. Otherwise, we won't be able to launch anything anytime soon. If that means going back and initializing profiles only for users who are bucketed into the experiment, we should consider that. I have no grief with that.
 2. One thing we omitted in our design was to update the post-profile (quote, disclaimers and bind/payment) calls to Root to include the v3 quote as the externalId. We now have a bug ticket open for this as well. It's not a major LOE but will take a day or two with hopefully two engs running side-by-side.
 	1. Scenarios
-		1. Mobile customer starts on web and moves to native.  The web experience will have created a v3 quote.  The Native app makes calls through proxy, and since a v3 quote exists this customer will continue to see the v3 quote from the web.
-		2. Mobile customer starts on native and stays on native.  Native app makes calls through proxy, and since no v3 quote exists this customer will continue through the v2 flows as is today.
+		1. Mobile customer starts on web and moves to native and stays on native.  The web experience will have created a v3 quote.  The Native app makes calls through proxy, and since a v3 quote exists this customer will continue to see the v3 quote from the web.
+		2. Mobile customer starts on web and move to native and moves back to web.  Same as above except if the customer added drivers or vehicles on native then those additions won't show back up on the v3 snapshot and therefore the quote on web
+		3. Mobile customer starts on native and stays on native.  Native app makes calls through proxy, and since no v3 quote exists this customer will continue through the v2 flows as is today.
 
 1. Again, would this impact users on native, esp. users who platform-switch?
