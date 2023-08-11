@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## to do
 
+- [ ] Fix Snapshot update tool
 
 
 ## in progress
