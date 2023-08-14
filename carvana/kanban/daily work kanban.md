@@ -7,16 +7,18 @@ kanban-plugin: basic
 ## to do
 
 - [ ] Fix Snapshot update tool
+- [ ] Support:<br>https://carvana.slack.com/archives/CN176P0V7/p1692026807110439<br>#support <br><br>[due::2023-08-14]
 
 
 ## in progress
 
-- [ ] Support #support <br><br>https://carvana.slack.com/archives/CN176P0V7/p1691597590986339<br><br>[due::2023-08-09]<br>(@2023-08-10 10:03)
+- [ ] Support: https://carvana.slack.com/archives/CN176P0V7/p1692026554207419<br>#support <br><br>[due::2023-08-14]
 
 
 ## done
 
 **Complete**
+- [x] Support #support <br><br>https://carvana.slack.com/archives/CN176P0V7/p1691597590986339<br><br>[due::2023-08-09]<br>(@2023-08-10 10:03)
 - [x] Let Iams know if EV/Hybrid becomes endangered by contracts not going out by Monday<br>#runthebusiness <br><br>[due::2023-08-10]<br>(@2023-08-10)
 - [x] Create script for resubmitting failed contract injections #runthebusiness <br><br>[due::2023-08-09]
 - [x] Release mobile proxy to prod #outofsprint <br><br>[due::2023-08-09]<br>(@2023-08-09 12:25)
