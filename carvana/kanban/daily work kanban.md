@@ -8,6 +8,7 @@ kanban-plugin: basic
 
 - [ ] Fix Snapshot update tool
 - [ ] Support:<br>https://carvana.slack.com/archives/CN176P0V7/p1692026807110439<br>#support <br><br>[due::2023-08-14]
+- [ ] Cache Sales:<br>https://carvana.slack.com/archives/G01T7473M6E/p1692028542277379<br>#support <br><br>[due::2023-08-23]
 
 
 ## in progress
