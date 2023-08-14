@@ -7,7 +7,7 @@ kanban-plugin: basic
 ## to do
 
 - [ ] Look into complete EV/Hybrid Purchases for Jonny<br>#runthebusiness <br><br>[due::2023-08-14]
-- [ ] Pull average call times for each call in PAP to external dependencies
+- [ ] Look into new products displayed after updating snapshot<br><br>[due::2023-08-15]
 
 
 ## in progress
@@ -19,6 +19,7 @@ kanban-plugin: basic
 ## done
 
 **Complete**
+- [x] Pull average call times for each call in PAP to external dependencies<br><br>[due::2023-08-14]
 - [x] Support:<br>https://carvana.slack.com/archives/CN176P0V7/p1692026807110439<br>#support <br><br>[due::2023-08-14]
 - [x] Support: https://carvana.slack.com/archives/CN176P0V7/p1692026554207419<br>#support <br><br>[due::2023-08-14]
 - [x] Support #support <br><br>https://carvana.slack.com/archives/CN176P0V7/p1691597590986339<br><br>[due::2023-08-09]<br>(@2023-08-10 10:03)
