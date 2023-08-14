@@ -6,19 +6,19 @@ kanban-plugin: basic
 
 ## to do
 
-- [ ] Fix Snapshot update tool
-- [ ] Support:<br>https://carvana.slack.com/archives/CN176P0V7/p1692026807110439<br>#support <br><br>[due::2023-08-14]
-- [ ] Cache Sales:<br>https://carvana.slack.com/archives/G01T7473M6E/p1692028542277379<br>#support <br><br>[due::2023-08-23]
 
 
 ## in progress
 
-- [ ] Support: https://carvana.slack.com/archives/CN176P0V7/p1692026554207419<br>#support <br><br>[due::2023-08-14]
+- [ ] Fix Snapshot update tool<br>#runthebusiness <br><br>- [ ] Update server get snapshot<br>- [ ] Update Support tool<br><br>[due::2023-08-14]
+- [ ] Support:<br>https://carvana.slack.com/archives/CN176P0V7/p1692026807110439<br>#support <br><br>[due::2023-08-14]
 
 
 ## done
 
 **Complete**
+- [x] Cache Sales:<br>https://carvana.slack.com/archives/G01T7473M6E/p1692028542277379<br>#support <br><br>[due::2023-08-23]
+- [x] Support: https://carvana.slack.com/archives/CN176P0V7/p1692026554207419<br>#support <br><br>[due::2023-08-14]
 - [x] Support #support <br><br>https://carvana.slack.com/archives/CN176P0V7/p1691597590986339<br><br>[due::2023-08-09]<br>(@2023-08-10 10:03)
 - [x] Let Iams know if EV/Hybrid becomes endangered by contracts not going out by Monday<br>#runthebusiness <br><br>[due::2023-08-10]<br>(@2023-08-10)
 - [x] Create script for resubmitting failed contract injections #runthebusiness <br><br>[due::2023-08-09]
