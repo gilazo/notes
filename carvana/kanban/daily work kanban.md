@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## to do
 
+- [ ] Look into complete EV/Hybrid Purchases for Jonny<br>#runthebusiness <br><br>[due::2023-08-14]
 
 
 ## in progress
