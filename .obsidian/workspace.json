@@ -11,9 +11,11 @@
             "id": "2459efb735fc3ceb",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "carvana/kanban/daily work kanban.md"
+                "file": "carvana/daily notes/2023-08-14.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "carvana/kanban/daily work kanban.md",
+                "file": "carvana/daily notes/2023-08-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,8 +163,8 @@
   },
   "active": "2459efb735fc3ceb",
   "lastOpenFiles": [
-    "carvana/daily notes/2023-08-14.md",
     "carvana/kanban/daily work kanban.md",
+    "carvana/daily notes/2023-08-14.md",
     "carvana/projects/Insurance/Discovered Drivers and Vehicles/Touch Base.md",
     "carvana/daily notes/2023-08-10.md",
     "carvana/projects/Insurance/Discovered Drivers and Vehicles",
