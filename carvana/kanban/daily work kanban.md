@@ -6,12 +6,11 @@ kanban-plugin: basic
 
 ## to do
 
-- [ ] Look into complete EV/Hybrid Purchases for Jonny<br>#runthebusiness <br><br>[due::2023-08-14]
-- [ ] Look into new products displayed after updating snapshot<br><br>[due::2023-08-15]
 
 
 ## in progress
 
+- [ ] Look into complete EV/Hybrid Purchases for Jonny<br>#runthebusiness <br><br>[due::2023-08-14]
 - [ ] Fix Snapshot update tool<br>#runthebusiness <br><br>- [x] Update server get snapshot<br>- [ ] Update Support tool<br><br>[due::2023-08-14]
 - [ ] Cache Sales:<br>https://carvana.slack.com/archives/G01T7473M6E/p1692028542277379<br>#support <br><br>[due::2023-08-23]
 
@@ -19,6 +18,7 @@ kanban-plugin: basic
 ## done
 
 **Complete**
+- [x] Look into new products displayed after updating snapshot<br><br>[due::2023-08-15]
 - [x] Pull average call times for each call in PAP to external dependencies<br><br>[due::2023-08-14]
 - [x] Support:<br>https://carvana.slack.com/archives/CN176P0V7/p1692026807110439<br>#support <br><br>[due::2023-08-14]
 - [x] Support: https://carvana.slack.com/archives/CN176P0V7/p1692026554207419<br>#support <br><br>[due::2023-08-14]
