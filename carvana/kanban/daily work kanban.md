@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## to do
 
+- [ ] Look into queries of old DT ancillary-products cosmos DB
 
 
 ## in progress
