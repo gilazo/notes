@@ -7,6 +7,7 @@ kanban-plugin: basic
 ## to do
 
 - [ ] Look into queries of old DT ancillary-products cosmos DB
+- [ ] Add Avish to the Collective Insurance and ProtectionProducts Lucidchart folders
 
 
 ## in progress
