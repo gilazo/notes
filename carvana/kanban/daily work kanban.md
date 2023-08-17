@@ -11,13 +11,13 @@ kanban-plugin: basic
 
 ## in progress
 
-- [ ] Look at changes logging.<br>#runthebusiness <br><br>[due::2023-08-17]
 - [ ] Fix Snapshot update tool<br>#runthebusiness <br><br>- [x] Update server get snapshot<br>- [ ] Update Support tool<br><br>[due::2023-08-14]
 
 
 ## done
 
 **Complete**
+- [x] Look at changes logging.<br>#runthebusiness <br><br>[due::2023-08-17] [completion:: 2023-08-17]
 - [x] Look into complete EV/Hybrid Purchases for Jonny<br>#runthebusiness <br><br>[due::2023-08-14]
 - [x] Cache Sales:<br>https://carvana.slack.com/archives/G01T7473M6E/p1692028542277379<br>#support <br><br>[due::2023-08-23]
 - [x] Look into new products displayed after updating snapshot<br><br>[due::2023-08-15]
