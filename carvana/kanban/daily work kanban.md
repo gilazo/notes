@@ -7,11 +7,11 @@ kanban-plugin: basic
 ## to do
 
 - [ ] Look into queries of old DT ancillary-products cosmos DB
-- [ ] Look at changes logging.
 
 
 ## in progress
 
+- [ ] Look at changes logging.<br>#runthebusiness <br><br>[due::2023-08-17]
 - [ ] Fix Snapshot update tool<br>#runthebusiness <br><br>- [x] Update server get snapshot<br>- [ ] Update Support tool<br><br>[due::2023-08-14]
 
 
