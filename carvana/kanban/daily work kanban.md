@@ -12,12 +12,12 @@ kanban-plugin: basic
 
 ## in progress
 
-- [ ] Fix Snapshot update tool<br>#runthebusiness <br><br>- [x] Update server get snapshot<br>- [ ] Update Support tool<br><br>[due::2023-08-14]
 
 
 ## done
 
 **Complete**
+- [x] Fix Snapshot update tool<br>#runthebusiness <br><br>- [x] Update server get snapshot<br>- [x] Update Support tool<br><br>[due::2023-08-14]
 - [x] Add Avish to the Collective Insurance and ProtectionProducts Lucidchart folders<br>#runthebusiness <br><br>[due::2023-08-18]
 - [x] Look at changes logging.<br>#runthebusiness <br><br>[due::2023-08-17] [completion:: 2023-08-17]
 - [x] Look into complete EV/Hybrid Purchases for Jonny<br>#runthebusiness <br><br>[due::2023-08-14]
