@@ -7,6 +7,7 @@ kanban-plugin: basic
 ## to do
 
 - [ ] Look into queries of old DT ancillary-products cosmos DB<br>#runthebusiness <br><br>[due::2023-08-23]
+- [ ] Look for Jersey specific Limited Warranty<br>#runthebusiness <br><br>[due::2023-08-21]
 
 
 ## in progress
