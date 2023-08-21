@@ -6,17 +6,17 @@ kanban-plugin: basic
 
 ## to do
 
-- [ ] Look into queries of old DT ancillary-products cosmos DB<br>#runthebusiness <br><br>[due::2023-08-23]
-- [ ] Look for Jersey specific Limited Warranty<br>#runthebusiness <br><br>[due::2023-08-21]
 
 
 ## in progress
 
+- [ ] Look into queries of old DT ancillary-products cosmos DB<br>#runthebusiness <br><br>[due::2023-08-23]
 
 
 ## done
 
 **Complete**
+- [x] Look for Jersey specific Limited Warranty<br>#runthebusiness <br><br>[due::2023-08-21]
 - [x] Fix Snapshot update tool<br>#runthebusiness <br><br>- [x] Update server get snapshot<br>- [x] Update Support tool<br><br>[due::2023-08-14]
 - [x] Add Avish to the Collective Insurance and ProtectionProducts Lucidchart folders<br>#runthebusiness <br><br>[due::2023-08-18]
 - [x] Look at changes logging.<br>#runthebusiness <br><br>[due::2023-08-17] [completion:: 2023-08-17]
