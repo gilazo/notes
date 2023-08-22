@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## to do
 
-- [ ] Look into SR EffectiveAt/Odo differences.<br>#runthebusiness <br><br>[due::2023-08-23]
 
 
 ## in progress
@@ -17,6 +16,7 @@ kanban-plugin: basic
 ## done
 
 **Complete**
+- [x] Look into SR EffectiveAt/Odo differences.<br>#runthebusiness <br><br>[due::2023-08-23]
 - [x] Look for Jersey specific Limited Warranty<br>#runthebusiness <br><br>[due::2023-08-21]
 - [x] Fix Snapshot update tool<br>#runthebusiness <br><br>- [x] Update server get snapshot<br>- [x] Update Support tool<br><br>[due::2023-08-14]
 - [x] Add Avish to the Collective Insurance and ProtectionProducts Lucidchart folders<br>#runthebusiness <br><br>[due::2023-08-18]
