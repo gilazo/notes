@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## to do
 
+- [ ] Look into SR EffectiveAt/Odo differences.<br>#runthebusiness <br><br>[due::2023-08-23]
 
 
 ## in progress
